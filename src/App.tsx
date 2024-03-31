@@ -147,7 +147,6 @@ function App() {
         defaultOptions
         placeholder="Karakter arayın..."
         formatOptionLabel={formatOptionLabel}
-        menuIsOpen
       />
     </div>
   );

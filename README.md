@@ -1,3 +1,7 @@
+## Vercel Link:
+https://fe-case-rickandmorty.vercel.app/
+
+
 ## Case:
 Adcreative.ai frontend developer pozisyonu icin hazirladigimiz bu case'de sizden React.js kullanarak multi-select autocomplete component implement etmenizi istiyoruz.
 Daha sonra bu componenti "Rick and Morty" api'daki karakterleri aramak ve select etmek icin kullanacaksiniz.
